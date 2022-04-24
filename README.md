@@ -1,0 +1,2 @@
+# murtclicglaz
+demonstriruet vozmoznosti mediapipe
